@@ -10,11 +10,11 @@ This is meant to be a boilerplate for new users or non-scripters to start using 
 
 **NativeUI-Slider-[Basic] -v85**
 
-This project has the basic setup for the NativeUI and uses the events to change a material on a plane.
+This project has the basic setup for the NativeUI Slider and scales a plane up and down.
 
 **NativeUI-Slider-[Patch Editor] -v85**
 
-This project has the basic setup for the NativeUI Slider and connects it to the Patch Editor. The value is passed through a patch graph and scales the plane.
+This project has the basic setup for the NativeUI Slider and connects it to the Patch Editor. The value is passed through a patch graph and scales the plane up and down.
 
 ## Resources
 
