@@ -16,6 +16,10 @@ This project has the basic setup for the NativeUI Slider and is entirely script.
 
 This project has the basic setup for the NativeUI Slider and connects the output value to the Patch Editor. When you adjust the slider a plane will scale up and down.
 
+**NativeUI-Slider-[Initial Value] -v85**
+
+This project has the basic setup for the NativeUI Slider with an initial value of 50% and connects the output value to the Patch Editor. When you adjust the slider a plane will scale up and down.
+
 ## Resources
 
 Follow me on IG [@lukehurd](https://instagram.com/lukehurd)
